@@ -7,7 +7,7 @@ public class tarefacalculomedia {
         int nota2 = 7;
         int nota3= 8;
 
-        int media = (nota + nota1 + nota2 + nota3) /3;
+        int media = (nota + nota1 + nota2 + nota3) /4;
         System.out.println("Primeira nota " + nota);
         System.out.println("Segunda nota " + nota1);
         System.out.println("Terceira nota " + nota2);
